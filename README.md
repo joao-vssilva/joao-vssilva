@@ -46,7 +46,7 @@ Atuo desde 2018 em ambientes corporativos, trabalhando com administração de si
 
 ## 📫 Contato
 <div> 
-  <a href="https:/joaovssilva.com.br" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-white?style=for-the-badge&color=FFFFFF&labelColor=FFFFFF&logoColor=black" target="_blank"></a>
+  <a href="https://joaovssilva.com.br" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-white?style=for-the-badge&color=FFFFFF&labelColor=FFFFFF&logoColor=black" target="_blank"></a>
   <a href = "mailto:joao.vssilva@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-0078D4?style=for-the-badge"></a>
   <a href="https://www.linkedin.com/in/joao-vssilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
