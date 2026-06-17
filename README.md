@@ -44,9 +44,9 @@ Atuo desde 2018 em ambientes corporativos, trabalhando com administração de si
   <img align="center" alt="joe-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joezero157&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao-vssillva&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joezero157&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vssillva&layout=compact&theme=tokyonight)
 
 ---
 
