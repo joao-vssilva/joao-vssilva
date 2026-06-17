@@ -44,6 +44,12 @@ Atuo desde 2018 em ambientes corporativos, trabalhando com administração de si
   <img align="center" alt="joe-grafana" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg">
 </div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joezero157&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joezero157&layout=compact&theme=tokyonight)
+
+---
+
 ## 📫 Contato
 <div> 
   <a href="https://joaovssilva.com.br" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-white?style=for-the-badge&color=FFFFFF&labelColor=FFFFFF&logoColor=black" target="_blank"></a>
